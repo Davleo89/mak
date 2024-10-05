@@ -14,6 +14,9 @@ export default {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
+            backgroundImage: {
+                'custom-radial': 'radial-gradient(circle at center, #d76060 , #052833)',
+            },
         },
     },
 
